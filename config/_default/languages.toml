@@ -1,10 +1,3 @@
-[fr]
-  languageName = "French"
-  contentDir = "content/fr"
-  weight = 10
-  [fr.params]
-    languageISO = "FR"
-
 [en]
   languageName = "English"
   contentDir = "content/en"
