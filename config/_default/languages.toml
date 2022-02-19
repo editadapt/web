@@ -4,6 +4,9 @@
   weight = 5
   [fr.params]
     languageISO = "FR"
+    titleAddition = "Services pour l'édition adaptée et inclusive"
+    description = ""
+    titleHome = "séas / éditadapt"
 
 [en]
   languageName = "English"
