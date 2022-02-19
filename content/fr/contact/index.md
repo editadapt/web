@@ -1,10 +1,10 @@
 ---
 title: "Contact"
-description: "Drop us an email."
+description: "Envoyez nous un message."
 date: 2020-08-27T19:25:12+02:00
 lastmod: 2020-08-27T19:25:12+02:00
 draft: true
 images: []
 ---
 
-{{< email user="hello" domain="getdoks.org" >}}
+{{< email user="gautier" domain="editadapt.net" >}}
