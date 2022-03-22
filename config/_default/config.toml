@@ -1,4 +1,4 @@
-baseurl = "https://formations.editadapt.net"
+baseurl = "https://formations.editadapt.net/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
