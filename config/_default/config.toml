@@ -1,4 +1,4 @@
-baseurl = "https://ea22-formations.netlify.app/"
+baseurl = "https://formations.editadapt.net"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
