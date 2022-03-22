@@ -1,7 +1,7 @@
 ---
 title: "Adapter, transcrire, créer avec des logiciels libres"
 date: 2019-09-03T18:23:22+02:00
-draft: false
+draft: true
 layout: "booksingle"
 ---
 

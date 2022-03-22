@@ -1,6 +1,6 @@
 ---
 title: Édition adaptée
-weight: 2
+weight: 20
 author: éditadapt
 date: 2021-12-01
 ---

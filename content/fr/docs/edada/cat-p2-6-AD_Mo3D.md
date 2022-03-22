@@ -1,7 +1,7 @@
 ---
 title: "Impression 3D et machines outils"
 date: 2019-09-03T18:23:22+02:00
-draft: false
+draft: true
 layout: "booksingle"
 ---
 

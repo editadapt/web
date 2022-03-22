@@ -37,8 +37,8 @@
 
 [[main]]
   name = "formations"
-    identifier = "formations"
-  url = "/docs/introduction/"
+    identifier = "Catalogue des formations"
+  url = "/docs/introduction"
 # url = "/docs/prologue/introduction/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
@@ -48,10 +48,10 @@
 #   url = "/tutorial/lorem/ipsum/"
 #   weight = 15
 
-[[main]]
-  name = "Blogue"
-  url = "/blog/"
-  weight = 20
+# [[main]]
+#   name = "Blogue"
+#   url = "/blog/"
+#   weight = 20
 
 #[[main]]
 #  name = "Démarrage"

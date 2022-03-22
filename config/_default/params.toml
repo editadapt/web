@@ -4,30 +4,29 @@
 title = "séas / éditadapt"
 titleSeparator = "-"
 titleAddition = "Services pour l'édition"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+description = "Éditadapt accompagne techniquement les acteurs de l'édition impliqués dans une démarche d'accessibilité de leurs productions. Notre approche s’inscrit dans la riche histoire des technique de l’édition et la convergence des univers de la lecture numérique, de l’édition traditionnelle et des besoins spécifiques pour les publics jusque là empêchés de lire."
 
 ## Documentation
-# docsVersion = "0.3"
+# docsVersion = "0.1"
 
 ## Open Graph
 images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+ogLocale = "fr_FR"
+domainTLD = "formations.editadapt.net"
+titleHome = "Formations Éditadapt"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@editadapt"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
-schemaLocale = "en-US"
+schemaName = "Éditadapt"
+schemaAuthor = "Gautier Chomel"
+#schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+#schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+schemaAuthorGitHub = "https://github.com/editadapt"
+schemaLocale = "fr-FR"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
@@ -40,7 +39,7 @@ schemaGitHub = "https://github.com/h-enk/doks"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = false
+siteLinksSearchBox = true
 
 ## Chrome Browser
 themeColor = "#fff"

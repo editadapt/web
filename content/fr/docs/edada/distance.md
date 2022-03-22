@@ -2,6 +2,7 @@
 title: Formations inter entreprises à distance 
 author: Gautier Chomel
 tags: formation
+draft: true
 ---
 
 Sept programmes de sept heures pour construire le parcour qui vous conviens. 
