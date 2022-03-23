@@ -1,11 +1,11 @@
-baseurl = "https://formations.editadapt.net/"
+baseurl = "https://ea22-formations.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "en-US"
+languageCode = "fr-FR"
 paginate = 7
 rssLimit = 10
 
