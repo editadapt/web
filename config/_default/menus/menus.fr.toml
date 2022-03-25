@@ -52,7 +52,7 @@
 
  [[main]]
    name = "Ressources"
-   url = "/tutorial/lorem/ipsum/"
+   url = "https://editadapt.net/posts"
    weight = 20
 
  [[main]]
