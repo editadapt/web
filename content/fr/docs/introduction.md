@@ -19,3 +19,5 @@ lead: ""
 Notre approche s’inscrit dans la riche histoire des technique de l’édition et la convergence des univers de la lecture numérique, de l’édition traditionnelle et des besoins spécifiques pour les publics jusque là empêchés de lire. 
 
 Nous adaptons nos formations à vos besoins. Contactez-nous : formation @ editadapt.net.
+
+En 2021 100 % des stagiaires répondants déclarent avoir atteint les objectifs et que la formation leur a permis d'augmenter leur niveau de connaissance et d'habileté.
