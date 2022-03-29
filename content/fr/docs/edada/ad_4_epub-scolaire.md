@@ -46,7 +46,12 @@ Transcripteur-Adaptateur, technicien supérieur, technicien spécialisé.
 * Échanges personnalisés.
 * Guide de référence, ressources et exercices.
 
-## formateur
+## Évaluation
+* QCM.
+* Évaluation orale à chaud.
+* Questionnaire à froid.
+
+## Formateur
 25 ans d'expérience dans la production éditoriale dont 12 ans de pratique de publication adaptées à des besoins spécifiques. Formateur confirmé.
 
 ## tarif
