@@ -5,8 +5,8 @@ date: 2022
 draft: false
 slug: 
 categories:
-* "Formations"
-* "édition adaptée"
+- "Formations"
+- "édition adaptée"
 tags:
 description: 
 weight: 20
