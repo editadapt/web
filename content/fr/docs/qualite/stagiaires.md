@@ -12,16 +12,15 @@ bénéficiaires :
 
 ## Procédure de gestion des abandons  
 Si un abandon était constaté, la procédure ci-dessous serait mise en œuvre. La procédure sera suivie grace à l'inscription au registre des abandons.
-1) Après un délai raisonnable et sans information de la part du stagiaire, nous informons le  
-prescripteur de l’absence du stagiaire par email.  
-2) Dans l’hypothèse d’un abandon avéré, nous adressons un email au stagiaire dans lequel une  analyse des raisons sera demandée.  
+1) Après un délai raisonnable et sans information de la part du stagiaire, nous informons le prescripteur de l’absence du stagiaire par email.  
+2) Dans l’hypothèse d’un abandon avéré, nous adressons un email au stagiaire dans lequel une analyse des raisons sera demandée.  
 *« Madame, Monsieur,  
 Vous nous avez fait par de votre souhait d’abandonner la formation intitulée xxx.  
 Nous en sommes désolés. Dans le cadre de notre gestion des ruptures de convention, pouvez-vous nous indiquer les raisons de votre décision ?  
-[] Manque de temps  
-[] Manque de motivation pour la thématique  
-[] Caractère obligatoire de la formation  
-[] Autres (merci de préciser) :  
+[ ] Manque de temps  
+[ ] Manque de motivation pour la thématique  
+[ ] Caractère obligatoire de la formation  
+[ ] Autres (merci de préciser) :  
 Nous reviendrons vers vous très prochainement après analyse de vos raisons pour vous proposer une alternative pouvant répondre à vos attentes ou contraintes.  
 Nous restons disponibles pour toute question.  
 Dans l’attente de vous lire, je vous prie d’agréer nos meilleures salutations. »*
