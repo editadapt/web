@@ -1,25 +1,25 @@
 [[docs]]
   name = "Édition nativement accessible"
-  weight = 10
+  weight = 40
   identifier = "ednac"
   url = "/docs/ednac/"
 
 [[docs]]
   name = "Édition adaptée"
-  weight = 20
+  weight = 30
   identifier = "edada"
   url = "/docs/edada/"
 
 [[docs]]
   name = "En partenariat"
-  weight = 60
+  weight = 20
   identifier = "partenariats"
   url = "/docs/partenaires/"
 
 
 [[docs]]
   name = "Démarche qualité"
-  weight = 80
+  weight = 10
   identifier = "qualite"
   url = "/docs/qualite/"
 
