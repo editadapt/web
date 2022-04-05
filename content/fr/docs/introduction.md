@@ -24,7 +24,10 @@ En 2021 100 % des stagiaires répondants déclarent avoir atteint les objectifs 
 
 Conditions générales de vente et Règlement intérieur disponibles sur demande
 
+
+
 ## Réclamation
 
 Pour toute réclamation ou demande relative à la qualité de la formation, veuillez nous faire parvenir un email à l'adresse gautier @ editadapt.net. Un accusé de réception vous sera communiqué en moins de 24 heures et une réponse personnalisée sous 72 heures.  
+
 

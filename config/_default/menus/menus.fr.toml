@@ -17,6 +17,14 @@
   url = "/docs/partenaires/"
 
 
+[[docs]]
+  name = "Démarche qualité"
+  weight = 80
+  identifier = "qualite"
+  url = "/docs/qualite/"
+
+
+
 # [[docs]]
 #   name = "Lorem"
 #   weight = 70
