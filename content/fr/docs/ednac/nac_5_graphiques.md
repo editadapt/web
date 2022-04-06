@@ -1,31 +1,46 @@
 ---
-title: ""
-author: "Gautier Chomel éditadapt"
+title: "Décrire les images et les ressources visuelles"
+author: "Gautier Chomel"
 date: 2022
-draft: true
+draft: false
 slug: 
 categories:
 - "Formations"
-- "édition adaptée"
+- "édition nativement accessible"
 tags:
 description: 
 ---
-Mise à jour : mars 2022
+Mise à jour : avril 2022
+Durée : 7 heures sur 1 journée
 
-Durée : 21 heures sur 3 jours
+## objectifs
+* Comprendre les besoins de description en fonction du type d'image
+* Savoir quelles ressources graphiques sont à décrire
+* Savoir décrire une image dans son contexte
 
+## programme
+* Utilité de la description des ressources graphiques
+    * Sens
+    * Fonction
+    * Contexte
+    * Types de ressources graphiques
+* Solutions techniques
+    * Texte court
+    * Texte long
+    * Liens
+    * Présnetation visuelle des descriptions
+* Décisions et choix éditoriaux
+    * Decrire où ne pas décrire
+    * Dessins, Tableaux, Photographies, 
+    * Bandes dessinées et romans graphiques
+    * Textes en graphiques
+    * Les représentations de données
 
-## Objectifs
-* 
-
-## Programme 
-* 
-
-## Public
-
+## publics
+Responsables de contenus éditoriaux, auteurs, producteurs de contenus graphiques.
 
 ## Pré requis
-
+Manipuler des images ou des ressources graphiques dans un contexte éditorial.
 
 ## Moyens pédagogiques 
 * Méthode active alternant apports théoriques, démonstrations et ateliers pratiques. 
