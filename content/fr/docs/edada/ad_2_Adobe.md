@@ -56,11 +56,14 @@ Transcripteur-Adaptateur, technicien supérieur, technicien spécialisé.
 ## Formateur
 25 ans d'expérience dans la production éditoriale dont 12 ans de pratique de publication adaptées à des besoins spécifiques. Formateur confirmé.
 
+## Durée 
+35 heures sur 5 journées.
+
 ## tarif
 Tous nos tarifs sont hors taxe et exonérés de TVA (article 261.4.4 a du CGI)
-* Inter entreprises : 500 euros par personne.
-* Inter entreprise à distance : 300 euros par personne.
-* Intra entreprise : 1500 euros (jusqu'à 8 personnes). 
+* Inter entreprises : 500 euros par personne et par jour.
+* Inter entreprise à distance : 300 euros par personne et par jour.
+* Intra entreprise : 1500 euros (jusqu'à 8 personnes) par jour. 
 
 ## dates et modalités
 * Formation accessible aux personnes en situation de handicap.
