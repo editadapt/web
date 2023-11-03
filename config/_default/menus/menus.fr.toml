@@ -31,42 +31,42 @@
 #   identifier = "lorem"
 #   url = "/docs/lorem/"
 
-[[guide]]
-  name = "Merol"
-  weight = 10
-  identifier = "lorem"
-  url = "/guide/lorem/"
+# [[guide]]
+#   name = "Merol"
+#   weight = 10
+#   identifier = "lorem"
+#   url = "/guide/lorem/"
 
-[[tutorial]]
-  name = "tuto"
-  weight = 10
-  identifier = "lorem"
-  url = "/tutorial/lorem/"
+# [[tutorial]]
+#   name = "tuto"
+#   weight = 10
+#   identifier = "lorem"
+#   url = "/tutorial/lorem/"
 
 [[main]]
   name = "formations"
     identifier = "Catalogue des formations"
   url = "/docs/introduction"
-# url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
+url = "/docs/prologue/introduction/"
+url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
 
- [[main]]
-   name = "Projets"
-   url = "https://editadapt.net/products"
-   weight = 15
+#  [[main]]
+#    name = "Projets"
+#    url = "https://editadapt.net/products"
+#    weight = 15
 
 
- [[main]]
-   name = "Ressources"
-   url = "https://editadapt.net/posts"
-   weight = 20
+#  [[main]]
+#    name = "Ressources"
+#    url = "https://editadapt.net/posts"
+#    weight = 20
 
- [[main]]
-   name = "À propos"
-   url = "https://editadapt.net/apropos"
-   weight = 25
+#  [[main]]
+#    name = "À propos"
+#    url = "https://editadapt.net/apropos"
+#    weight = 25
 
  [[main]]
    name = "Contact"
