@@ -47,8 +47,6 @@
   name = "formations"
     identifier = "Catalogue des formations"
   url = "/docs/introduction"
-url = "/docs/prologue/introduction/"
-url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
 
