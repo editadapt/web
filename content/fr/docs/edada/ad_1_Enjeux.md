@@ -11,7 +11,7 @@ categories:
 tags:
 description: 
 ---
-Mise à jour : mars 2022
+Mise à jour : novembre 2023
 
 Durée : 21 heures sur 3 jours
 
@@ -63,7 +63,8 @@ Tous nos tarifs sont hors taxe et exonérés de TVA (article 261.4.4 a du CGI)
 * Inscription 3 semaines avant le début de la formation.
 * Les sessions inter entreprises sont ouvertes à partir de 3 inscrits. 
 * Les sessions à distance se tiennent via l'application Zoom sur deux demi journées.
-* Sessions à distance 2022 : 20 & 21 octobre de 9h à 12h30.
-* Sessions inter entreprise à Montpellier : 22 septembre de 9h à 17h.
+* Sessions à distance (pas de session programmée)
+* Sessions inter en entreprise à Montpellier (pas de session programmée)
+* Contact: formations @ editadapt.net (supprimer les espaces)
 
 <!--fin de document-->

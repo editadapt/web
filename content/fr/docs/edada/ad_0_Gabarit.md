@@ -3,7 +3,7 @@ title: ""
 author: "Gautier Chomel éditadapt"
 date: 2022
 weight: 
-draft: false
+draft: true
 slug: 
 categories:
 - "Formations"
@@ -11,7 +11,7 @@ categories:
 tags:
 description: 
 ---
-Mise à jour : mars 2022
+Mise à jour : novembre 2023
 
 Durée : 21 heures sur 3 jours
 

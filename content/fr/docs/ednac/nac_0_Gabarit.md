@@ -13,7 +13,7 @@ tags:
 description: 
 lead: ""
 ---
-Mise à jour : mars 2022
+Mise à jour : novembre 2023
 
 Durée : 21 heures sur 3 jours
 
