@@ -3,7 +3,7 @@ title: "Règlement intérieur
 "
 author: "Gautier Chomel"
 tags: references
-date: "28 avril 2022"
+date: 2022-04-28
 ---
 
 _Mis à jour le 28 avril 2022_
