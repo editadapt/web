@@ -5,7 +5,7 @@
   [fr.params]
     languageISO = "FR"
     titleAddition = "Services pour l'édition adaptée et inclusive"
-    description = ""
+    description = "description"
     titleHome = "séas / éditadapt"
 
 [en]

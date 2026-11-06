@@ -1,6 +1,6 @@
 ---
-title : "Services pour l'édition"
-description: ""
+title: "Services pour l'édition numérique accessible et adaptée"
+description: "Systèmes d'information & de publication"
 lead: "Systèmes d'information & de publication"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
