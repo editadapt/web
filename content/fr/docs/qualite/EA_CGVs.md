@@ -3,7 +3,7 @@ title: "Conditions Générales de Vente des Prestations de Formation
 "
 author: "Gautier Chomel"
 tags: references
-date: "28 avril 2022"
+date: 2022-04-28
 ---
 
 Conditions Générales de Vente des Prestations de Formation par CHOMEL

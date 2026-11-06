@@ -14,47 +14,48 @@
 
 {{ $app := resources.Get "js/app.js" -}}
 
-{{ $slice := slice $app -}}
+{{ $slice := slice }}
+{{ if $app }}{{ $slice = slice $app }}{{ end -}}
 
 {{ if .Site.Params.options.lazySizes -}}
   {{ $lazySizes := resources.Get "js/lazysizes.js" -}}
-  {{ $lazySizes := $lazySizes | js.Build -}}
-  {{ $slice = $slice | append $lazySizes -}}
+  {{ if $lazySizes }}{{ $lazySizes := $lazySizes | js.Build -}}
+  {{ $slice = $slice | append $lazySizes }}{{ end -}}
 {{ end -}}
 
 {{ if .Site.Params.options.clipBoard -}}
   {{ $clipBoard := resources.Get "js/clipboard.js" -}}
-  {{ $clipBoard := $clipBoard | js.Build -}}
-  {{ $slice = $slice | append $clipBoard -}}
+  {{ if $clipBoard }}{{ $clipBoard := $clipBoard | js.Build -}}
+  {{ $slice = $slice | append $clipBoard }}{{ end -}}
 {{ end -}}
 
 {{ if .Site.Params.options.instantPage -}}
   {{ $instantPage := resources.Get "js/instant.page.js" -}}
-  {{ $instantPage := $instantPage | js.Build -}}
-  {{ $slice = $slice | append $instantPage -}}
+  {{ if $instantPage }}{{ $instantPage := $instantPage | js.Build -}}
+  {{ $slice = $slice | append $instantPage }}{{ end -}}
 {{ end -}}
 
 {{ if .Site.Params.options.flexSearch -}}
   {{ $flexSearch := resources.Get "js/vendor/flexsearch/dist/flexsearch.bundle.js" -}}
-  {{ $slice = $slice | append $flexSearch -}}
+  {{ if $flexSearch }}{{ $slice = $slice | append $flexSearch }}{{ end -}}
 {{ end -}}
 
 {{ if .Site.Params.options.darkMode -}}
   {{ $darkMode := resources.Get "js/darkmode.js" -}}
-  {{ $darkMode := $darkMode | js.Build -}}
-  {{ $slice = $slice | append $darkMode -}}
+  {{ if $darkMode }}{{ $darkMode := $darkMode | js.Build -}}
+  {{ $slice = $slice | append $darkMode }}{{ end -}}
 {{ end -}}
 
 {{ if and (.Site.Params.alert) (.Site.Params.alertDismissable) -}}
   {{ $alert := resources.Get "js/alert.js" -}}
-  {{ $alert := $alert | js.Build -}}
-  {{ $slice = $slice | append $alert -}}
+  {{ if $alert }}{{ $alert := $alert | js.Build -}}
+  {{ $slice = $slice | append $alert }}{{ end -}}
 {{ end -}}
 
 {{ if .Site.Params.options.kaTex -}}
   {{ $katexConfig := resources.Get "js/katex.js" -}}
-  {{ $katexConfig := $katexConfig | js.Build -}}
-  {{ $slice = $slice | append $katexConfig -}}
+  {{ if $katexConfig }}{{ $katexConfig := $katexConfig | js.Build -}}
+  {{ $slice = $slice | append $katexConfig }}{{ end -}}
 {{ end -}}
 
 {{ $js := $slice | resources.Concat "main.js" -}}
